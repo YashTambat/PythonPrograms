@@ -6,7 +6,7 @@ Here, in this page we will discuss the program to find the maximum product of su
 Example
 Input : arr = [ 1, -2, -3, 0, 7, -8, -2 ]
 Output : Maximum product sub-array is 112
-
+abc uhy
 '''
 
 def maxSubarrayProduct(arr , n):
